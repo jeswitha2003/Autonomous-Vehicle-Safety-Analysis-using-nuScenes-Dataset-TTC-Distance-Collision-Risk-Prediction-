@@ -1,0 +1,2 @@
+# Autonomous-Vehicle-Safety-Analysis-using-nuScenes-Dataset-TTC-Distance-Collision-Risk-Prediction-
+This project analyzes real-world driving scenes from the NuScenes autonomous driving dataset to detect potential collision risks. It computes critical safety parameters such as:  Ego vehicle speed  Ego acceleration  Minimum distance to surrounding vehicles  Distance to pedestrian  Time-To-Collision (TTC)  Combined Safety Risk Score  
