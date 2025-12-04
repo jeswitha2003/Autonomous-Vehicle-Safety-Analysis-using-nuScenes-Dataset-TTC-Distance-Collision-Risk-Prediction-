@@ -21,13 +21,6 @@ Combined Safety Risk Score
 
 The system then ranks the most dangerous moments, plots risk variations over time, and helps identify when braking/avoidance is required.
 
-🔥 Key Outcomes
-     Metric	                     Meaning	                     Why it matters
-Distance to objects  	How close ego car is to others  	Indicates risk & safe spacing
-TTC	                  Time left before collision	      Lower = dangerous event likely
-Risk Score	          Combined risk indicator	          Helps decision making
-Critical Frames	      Most dangerous timestamps	        For emergency interventions
-
 🚗 Results Snapshot
 
 Example detected high-risk frame:
